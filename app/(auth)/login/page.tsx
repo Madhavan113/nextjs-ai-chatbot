@@ -60,6 +60,9 @@ export default function Page() {
             </Link>
             {' for free.'}
           </p>
+          <p className="text-center text-sm text-gray-600 mt-4 dark:text-zinc-400">
+            {"Forgot password? "}
+          </p>
         </AuthForm>
       </div>
     </div>
